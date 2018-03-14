@@ -1,0 +1,55 @@
+F:\Shubham\Personal\FL\Wan Mohd Hasim - net - Malaysia\Report Developer\ReportDeveloper\ReportDeveloper\bin\Release\ReportDeveloper.exe.config
+F:\Shubham\Personal\FL\Wan Mohd Hasim - net - Malaysia\Report Developer\ReportDeveloper\ReportDeveloper\bin\Release\ReportDeveloper.exe
+F:\Shubham\Personal\FL\Wan Mohd Hasim - net - Malaysia\Report Developer\ReportDeveloper\ReportDeveloper\bin\Release\ReportDeveloper.pdb
+F:\Shubham\Personal\FL\Wan Mohd Hasim - net - Malaysia\Report Developer\ReportDeveloper\ReportDeveloper\bin\Release\EntityFramework.dll
+F:\Shubham\Personal\FL\Wan Mohd Hasim - net - Malaysia\Report Developer\ReportDeveloper\ReportDeveloper\bin\Release\EntityFramework.SqlServer.dll
+F:\Shubham\Personal\FL\Wan Mohd Hasim - net - Malaysia\Report Developer\ReportDeveloper\ReportDeveloper\bin\Release\MySql.Data.dll
+F:\Shubham\Personal\FL\Wan Mohd Hasim - net - Malaysia\Report Developer\ReportDeveloper\ReportDeveloper\bin\Release\MySql.Data.Entity.EF6.dll
+F:\Shubham\Personal\FL\Wan Mohd Hasim - net - Malaysia\Report Developer\ReportDeveloper\ReportDeveloper\bin\Release\Newtonsoft.Json.dll
+F:\Shubham\Personal\FL\Wan Mohd Hasim - net - Malaysia\Report Developer\ReportDeveloper\ReportDeveloper\bin\Release\Select.HtmlToPdf.dll
+F:\Shubham\Personal\FL\Wan Mohd Hasim - net - Malaysia\Report Developer\ReportDeveloper\ReportDeveloper\bin\Release\EntityFramework.xml
+F:\Shubham\Personal\FL\Wan Mohd Hasim - net - Malaysia\Report Developer\ReportDeveloper\ReportDeveloper\bin\Release\EntityFramework.SqlServer.xml
+F:\Shubham\Personal\FL\Wan Mohd Hasim - net - Malaysia\Report Developer\ReportDeveloper\ReportDeveloper\bin\Release\MySql.Data.xml
+F:\Shubham\Personal\FL\Wan Mohd Hasim - net - Malaysia\Report Developer\ReportDeveloper\ReportDeveloper\bin\Release\MySql.Data.Entity.EF6.xml
+F:\Shubham\Personal\FL\Wan Mohd Hasim - net - Malaysia\Report Developer\ReportDeveloper\ReportDeveloper\bin\Release\Newtonsoft.Json.xml
+F:\Shubham\Personal\FL\Wan Mohd Hasim - net - Malaysia\Report Developer\ReportDeveloper\ReportDeveloper\bin\Release\Select.HtmlToPdf.xml
+F:\Shubham\Personal\FL\Wan Mohd Hasim - net - Malaysia\Report Developer\ReportDeveloper\ReportDeveloper\bin\Release\Select.Html.dep
+F:\Shubham\Personal\FL\Wan Mohd Hasim - net - Malaysia\Report Developer\ReportDeveloper\ReportDeveloper\obj\Release\ReportDeveloper.csprojResolveAssemblyReference.cache
+F:\Shubham\Personal\FL\Wan Mohd Hasim - net - Malaysia\Report Developer\ReportDeveloper\ReportDeveloper\obj\Release\ReportDeveloper.Form1.resources
+F:\Shubham\Personal\FL\Wan Mohd Hasim - net - Malaysia\Report Developer\ReportDeveloper\ReportDeveloper\obj\Release\ReportDeveloper.Properties.Resources.resources
+F:\Shubham\Personal\FL\Wan Mohd Hasim - net - Malaysia\Report Developer\ReportDeveloper\ReportDeveloper\obj\Release\ReportDeveloper.csproj.GenerateResource.Cache
+F:\Shubham\Personal\FL\Wan Mohd Hasim - net - Malaysia\Report Developer\ReportDeveloper\ReportDeveloper\obj\Release\ReportDeveloper.exe
+F:\Shubham\Personal\FL\Wan Mohd Hasim - net - Malaysia\Report Developer\ReportDeveloper\ReportDeveloper\obj\Release\ReportDeveloper.pdb
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\ReportDeveloper.exe.config
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\obj\Release\ReportDeveloper.exe
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\obj\Release\ReportDeveloper.pdb
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\Report.rdlc
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\ReportDeveloper.exe
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\ReportDeveloper.pdb
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\Dapper.dll
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\EntityFramework.dll
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\EntityFramework.SqlServer.dll
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\MySql.Data.dll
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\Newtonsoft.Json.dll
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\Select.HtmlToPdf.dll
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\System.Data.SQLite.dll
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\System.Data.SQLite.EF6.dll
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\System.Data.SQLite.Linq.dll
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\System.Net.Http.dll
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\Dapper.pdb
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\Dapper.xml
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\EntityFramework.xml
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\EntityFramework.SqlServer.xml
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\Newtonsoft.Json.xml
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\Select.HtmlToPdf.xml
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\System.Data.SQLite.xml
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\System.Net.Http.xml
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\bin\Release\Select.Html.dep
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\obj\Release\ReportDeveloper.Form1.resources
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\obj\Release\ReportDeveloper.Properties.Resources.resources
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\obj\Release\ReportDeveloper.csproj.GenerateResource.Cache
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\obj\Release\RdlCompile.cache
+D:\LUCKY\PROJECT\2018\ReportDeveloper - Copy\ReportDeveloper\obj\Release\RdlCompile.compiled
+E:\ReportDeveloper - Copy\ReportDeveloper\bin\Release\ReportDeveloper.exe.config
+E:\ReportDeveloper - Copy\ReportDeveloper\obj\Release\ReportDeveloper.exe
+E:\ReportDeveloper - Copy\ReportDeveloper\obj\Release\ReportDeveloper.pdb

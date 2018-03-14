@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="tsspk1511DataSet" targetNamespace="http://tempuri.org/tsspk1511DataSet.xsd" xmlns:mstns="http://tempuri.org/tsspk1511DataSet.xsd" xmlns="http://tempuri.org/tsspk1511DataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="tsspk1511ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="tsspk1511ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.ReportDeveloper.Properties.Settings.GlobalReference.Default.tsspk1511ConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="appinfoTableAdapter" GeneratorDataComponentClassName="appinfoTableAdapter" Name="appinfo" UserDataComponentName="appinfoTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="tsspk1511ConnectionString (Settings)" DbObjectName="tsspk1511.appinfo" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT id, refno, nama, type_id, icno, nolesen, bangsa, addr1, addr2, addr3, bandar, daerah, dun, parlimen, poskod, negeri, hometel, officetel, hptel, faks, email, kelompok, created, createdby, appdate, semak_tapak, keputusan, sts_bck, status, date_approved, approved_by, sop FROM appinfo</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="tsspk1511DataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="tsspk1511DataSet" msprop:Generator_UserDSName="tsspk1511DataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="appinfo" msprop:Generator_TableClassName="appinfoDataTable" msprop:Generator_TableVarName="tableappinfo" msprop:Generator_TablePropName="appinfo" msprop:Generator_RowDeletingName="appinfoRowDeleting" msprop:Generator_RowChangingName="appinfoRowChanging" msprop:Generator_RowEvHandlerName="appinfoRowChangeEventHandler" msprop:Generator_RowDeletedName="appinfoRowDeleted" msprop:Generator_UserTableName="appinfo" msprop:Generator_RowChangedName="appinfoRowChanged" msprop:Generator_RowEvArgName="appinfoRowChangeEvent" msprop:Generator_RowClassName="appinfoRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
